@@ -36,13 +36,8 @@ This dashboard was created as part of my **data analyst portfolio** to showcase:
 - Business-centric KPIs
 - Dashboard interactivity and design
 
-## File
- [Ecommerce_Excel_Dashboard.xlsx](https://github.com/user-attachments/files/21147675/Ecommerce_Excel_Dashboard.xlsx)
-
- Main Excel dashboard with embedded visuals and slicers
 
 ## 🔗 Live Preview / Download
 
-> [Download Excel File](https://github.com/Isha-Tated/EXCEL_ECOMMERCE_DAS/blob/main/ecommerce_dashboard.xlsx)  
-*(Update this link after uploading the Excel file to GitHub)*
+> [Download Excel File](https://github.com/Isha-Tated/EXCEL_ECOMMERCE_DASHBOARD/blob/main/README.md?plain=1)
 
