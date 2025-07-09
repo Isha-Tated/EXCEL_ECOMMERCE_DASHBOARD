@@ -27,7 +27,7 @@ This project is an interactive **Excel dashboard** that analyzes key performance
 
 ## Screenshot
 
-![Dashboard Preview](EXCEL_ECOMMERCE_DASHBOARD.png)
+https://github.com/Isha-Tated/EXCEL_ECOMMERCE_DASHBOARD/blob/main/EXCEL_ECOMMERCE_DASHBOARDpng.png
 
 ## Purpose
 
