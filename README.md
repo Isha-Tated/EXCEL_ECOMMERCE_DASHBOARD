@@ -39,5 +39,5 @@ This dashboard was created as part of my **data analyst portfolio** to showcase:
 
 ## 🔗 Live Preview / Download
 
-> [Download Excel File](https://github.com/Isha-Tated/EXCEL_ECOMMERCE_DASHBOARD/blob/main/README.md?plain=1)
+> (https://github.com/Isha-Tated/EXCEL_ECOMMERCE_DASHBOARD/blob/main/Ecommerce_Excel_Dashboard.xlsx)
 
